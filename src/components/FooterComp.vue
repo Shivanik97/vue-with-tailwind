@@ -3,11 +3,3 @@
     <h4 class="text-center p-2">2023</h4>
   </div>
 </template>
-
-<script>
-export default {
-  name: 'Footer'
-}
-</script>
-
-<style></style>
